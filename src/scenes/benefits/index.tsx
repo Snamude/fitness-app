@@ -15,19 +15,19 @@ const benefits: Array<BenefitType> = [
     icon: <HomeModernIcon className="h-6 w-6" />,
     title: "State of the Art Facilities",
     description:
-      "Neque adipiscing amet amet enim. Feugiat dolor enim fermentum in a in lectus pellentesque. Ullamcorper et.",
+      "A premier fitness center that provides a wide range of cutting-edge equipment and amenities. From advanced strength training machines to a variety of specialized classes, the gym is designed to meet the needs of all fitness levels.",
   },
   {
     icon: <UserGroupIcon className="h-6 w-6" />,
     title: "100's of Diverse Classes",
     description:
-      "Eu ipsum id egestas risus tempus enim semper felis quis. Nec consectetur ac venenatis facilisi est. Eget ac turpis id.",
+      "Catering to a wide range of interests and fitness levels. With hundreds of options, members can explore everything from high-intensity interval training and spin classes to yoga and dance, ensuring there's a perfect workout for everyone.",
   },
   {
     icon: <AcademicCapIcon className="h-6 w-6" />,
     title: "Expert and Pro Trainers",
     description:
-      "Fusce vestibulum aliquam ut cras. Nisl lectus egestas sapien nisl. Lacus at mi sit pellentesque. Congue parturient.",
+      "At the gym, members have access to a team of expert and professional trainers who are dedicated to helping them achieve their fitness goals. These trainers provide personalized guidance, offer motivation, and design customized workout plans to ensure effective and safe results.",
   },
 ];
 
@@ -131,18 +131,22 @@ const Benefits = ({ setSelectedPage }: Props) => {
               }}
             >
               <p className="my-5">
-                Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                Felis orci diam odio.
+              This gym has been the go-to destination for people looking to improve 
+              their health and fitness. With a welcoming atmosphere and a supportive 
+              community, it helps countless members transform their lives, build 
+              confidence, and achieve their personal best. The success stories of 
+              these members, from weight loss journeys to reaching new strength goals, 
+              serve as a testament to the gym's effectiveMapproach and its commitment 
+              to fostering a positive fitness culture.
               </p>
               <p className="mb-5">
-                Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-                tellus quam porttitor. Mauris velit euismod elementum arcu neque
-                facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-                enim mattis odio in risus nunc.
+              The gym's philosophy centers on making fitness accessible and enjoyable 
+              for everyone, which is why so many members have found long-term success. 
+              By providing a wide range of state-of-the-art equipment, diverse classes, 
+              and expert guidance, the gym ensures that every individual can find a routine 
+              that works for them. The result is a community of millions of happy members 
+              who are not only getting fit but also building a healthier, more active 
+              lifestyle that they can sustain for years to come.
               </p>
             </motion.div>
 
